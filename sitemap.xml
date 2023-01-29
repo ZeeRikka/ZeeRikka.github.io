@@ -2,9 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://www.rikkazee.com/posts/</loc><lastmod>2023-01-30T02:22:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.rikkazee.com/posts/</loc><lastmod>2023-01-30T02:29:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.rikkazee.com/test3/</loc><lastmod>2023-01-30T02:29:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.rikkazee.com/</loc><lastmod>2023-01-30T02:29:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://www.rikkazee.com/test2/</loc><lastmod>2023-01-30T02:22:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://www.rikkazee.com/</loc><lastmod>2023-01-30T02:22:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://www.rikkazee.com/test/</loc><lastmod>2023-01-29T02:50:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://www.rikkazee.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://www.rikkazee.com/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
