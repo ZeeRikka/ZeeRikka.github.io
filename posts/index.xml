@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - ZeeLab</title>
+        <link>https://www.rikkazee.com/posts/</link>
+        <description>All Posts | ZeeLab</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 29 Jan 2023 02:50:08 &#43;0800</lastBuildDate><atom:link href="https://www.rikkazee.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://www.rikkazee.com/test/</link>
+    <pubDate>Sun, 29 Jan 2023 02:50:08 &#43;0800</pubDate>
+    <author>Zee</author>
+    <guid>https://www.rikkazee.com/test/</guid>
+    <description><![CDATA[Hello World!! ]]></description>
+</item>
+</channel>
+</rss>
